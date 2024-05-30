@@ -9,7 +9,7 @@
 <li>💻   Python | Django</li>
 <li>🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Reactjs</li>
 <li>🛢   MySQL | MongoDB | Postgres</li>
-<li>🔧   Git | Gitlab | Bitbucket</li>
+<li>🔧   Git | Gitlab |Github | Bitbucket</li>
 <li>🖥   UI / UX | Canva |</li>
 <br><br>
 
