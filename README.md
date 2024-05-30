@@ -14,7 +14,9 @@
 <br><br>
 
 **🤝🏻 Connect with Me**
+<br>
 [LinkedIn](https://www.linkedin.com/in/suyog-pawar-86002a2a2/)
+<br>
 [Email](suyogpawar460@gmail.com)
 
 <!---
