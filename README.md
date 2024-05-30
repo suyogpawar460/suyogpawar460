@@ -1,5 +1,5 @@
 👨🏻‍💻 **About Me**
-🤔   Exploring new technologies and developing software solutions and quick hacks.
+<li>🤔   Exploring new technologies and developing software solutions and quick hacks.</li>
 🎓   Completed Computer Engineering at University of Mumbai.
 💼   Experienced Work at KAN Infocom Solution India Private Ltd  as a Fullstack Developer having 4+ years of experience.
 🌱   Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.
