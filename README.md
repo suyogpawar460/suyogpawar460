@@ -4,6 +4,7 @@
 <li>💼   Experienced Work at KAN Infocom Solution India Private Ltd  as a Fullstack Developer having 4+ years of experience.</li>
 <li>🌱   Learning more about Fullstack Software Engineer, Systems Design and Artificial Intelligence.</li>
 <br><br>
+
 **🛠 Tech Stack**
 <li>💻   Python | Django</li>
 <li>🌐   HTML | CSS | JavaScript | Bootstrap | Node.js | Angular | Reactjs</li>
