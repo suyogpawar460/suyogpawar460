@@ -16,8 +16,6 @@
 **🤝🏻 Connect with Me**
 <br>
 [LinkedIn](https://www.linkedin.com/in/suyog-pawar-86002a2a2/)
-<br>
-[Email](suyogpawar460@gmail.com)
 
 <!---
 suyogpawar460/suyogpawar460 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
